@@ -23,7 +23,7 @@ python xmas.py
 Enjoy and have fun!
 
 ## Built With
-Only The Python 3.9 Standard Library is used.
+The Python 3.9 Standard Library is only used.
 * [Curses](https://docs.python.org/3/howto/curses.html)
 
 ## Author
