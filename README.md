@@ -6,7 +6,7 @@ to draw snowfall, a Christmas tree with glowing lights, a cat near the tree:D, a
 smoking house. What a cozy winter scenery!
 
 ## Animation
-![til](./xmas.mp4)
+![til](./xmas.gif)
 
 ## Getting Started
 Download the source code:
