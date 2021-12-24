@@ -28,7 +28,7 @@ def main(stdscr: curses.initscr):
     
     # sub-window for snow fall
     snow_height = 1
-    height = len(elements.XMAS) + len(elements.HOUSE) + len(SMOKE) + 1; width = len(elements.TRAIL[0])
+    height = len(elements.XMAS) + len(elements.HOUSE) + len(SMOKE) + 3; width = len(elements.TRAIL[0])
     begin_y = 0; begin_x = 0
     snow = curses.newwin(height, width, begin_y, begin_x)
 
@@ -86,7 +86,7 @@ def main(stdscr: curses.initscr):
 
         # snow fall
         snow_state = drawing.draw_snow(window=snow, width=len(elements.TRAIL[0]), height=snow_height)
-        if snow_height < len(elements.XMAS) + len(elements.HOUSE) + len(SMOKE):
+        if snow_height < len(elements.XMAS) + len(elements.HOUSE) + len(SMOKE) + 2:
             snow_height += 1
         
         # Merry Christmas
