@@ -5,6 +5,9 @@ Christmas greetings console animation written in Python. Unicode characters are 
 to draw snowfall, a Christmas tree with glowing lights, a cat near the tree:D, a snowman and a 
 smoking house. What a cozy winter scenery!
 
+## Animation
+![til](./xmas.gif)
+
 ## Getting Started
 Download the source code:
 ```bash
