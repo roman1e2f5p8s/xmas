@@ -6,24 +6,21 @@ to draw snowfall, a Christmas tree with glowing lights, a cat near the tree:D, a
 smoking house. What a cozy winter scenery!
 
 ## Getting Started
-Please follow these instructions to install all the requirements and use the package correctly.
-
-### Download the source code:
+Download the source code:
 ```bash
-git clone https://github.com/roman1e2f5p8s/rlapseingym
+git clone https://github.com/roman1e2f5p8s/xmas
 ```
-
-### Install dependencies:
-```bash
-pip3 install -r requirements.txt
-```
+No dependency installation is required.
 
 ## Usage
+Simply run in your terminal
 ```bash
 python xmas.py
 ```
+Enjoy and have fun!
 
 ## Built With
+Only The Python 3.9 Standard Library is used.
 * [Curses](https://docs.python.org/3/howto/curses.html)
 
 ## Author
